@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HKT16
-- 👀 I’m interested in: machine learning and the potentially limitless applications that it can serve
-- 🌱 I’m currently learning: JavaScript
+- 👀 I’m interested in: data science and machine learning
+- 🌱 I’m currently learning: R
 - 💞️ I’m looking to collaborate on: nothing at the moment...
 - 📫 How to reach me: My gmail is tylerhkt@gmail.com
 
